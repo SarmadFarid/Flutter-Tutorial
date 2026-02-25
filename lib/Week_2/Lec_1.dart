@@ -1,6 +1,6 @@
 /// ***************************************************************************
 /// ! COURSE: FLUTTER PROFESSIONAL DEVELOPMENT
-/// ? MONTH 1 — LECTURE 6
+/// ? WEEK 2 — LECTURE 1
 /// ? TOPIC: STRING MANIPULATION & INTERPOLATION
 /// ***************************************************************************
 

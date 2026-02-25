@@ -1,6 +1,6 @@
 /// ***************************************************************************
 /// ! COURSE: FLUTTER PROFESSIONAL DEVELOPMENT
-/// ? MONTH 1 — LECTURE 2
+/// ? MONTH 1 — LECTURE 4
 /// ? TOPIC: DART FUNDAMENTALS (VARIABLES, DATA TYPES, MEMORY, RUNTIME)
 /// ***************************************************************************
 
