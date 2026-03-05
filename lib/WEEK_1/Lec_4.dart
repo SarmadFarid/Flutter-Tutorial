@@ -110,7 +110,7 @@ library;
 ///
 /// Example:
 var name = "Ahmed"; // Dart infers String
-name = "Ali";       // ✅ Allowed
+// name = "Ali";       // ✅ Allowed
 ///
 /// NOTE:
 /// * Once inferred, type cannot change.
@@ -198,7 +198,7 @@ const pi = 3.14;
 
 /// 1️⃣ int
 /// * Whole numbers (no decimal).
-int age = 25;
+// int age = 25;
 
 /// 2️⃣ double
 /// * Decimal numbers.
@@ -215,7 +215,7 @@ bool isLoggedIn = true;
 /// 5️⃣ num
 /// * Parent type of int and double.
 num number = 10;
-number = 3.14; // ✅ Allowed
+// number = 3.14; // ✅ Allowed
 ///
 /// NOTE:
 /// * num gives flexibility but reduces strict type safety.
