@@ -204,19 +204,15 @@ void ecommerceExample() {
 
 
 /*
-TASK
+! TASK
+todo: 1 Create a list of numbers and print them using forEach.
+todo: 2 Use map to create a new list where each number is multiplied by 5.
+todo: 3 Use where to filter numbers greater than 50.
+todo: 4 Use reduce to calculate the sum of a list.
 
-1 Create a list of numbers and print them using forEach.
+? ADVANCED TASK
 
-2 Use map to create a new list where each number is multiplied by 5.
-
-3 Use where to filter numbers greater than 50.
-
-4 Use reduce to calculate the sum of a list.
-
-ADVANCED TASK
-
-Create a program that stores product prices in a list and:
+* Create a program that stores product prices in a list and:
 - prints all prices
 - creates a discounted list
 - filters expensive products
