@@ -1,8 +1,8 @@
 /*
 ***************************************************************************
 ! COURSE: FLUTTER PROFESSIONAL DEVELOPMENT
-? WEEK 5 — LECTURE 2
-? TOPIC: ABSTRACT CLASSES & INTERFACES (BEGINNER FRIENDLY)
+? WEEK 5 — LECTURE 1
+? TOPIC: ABSTRACT CLASSES & INTERFACES
 ***************************************************************************
 
 ? ABSTRACT CLASS
